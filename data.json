@@ -6,5 +6,12 @@
     "social-link": "link",
     "dp": "Havel",
     "id": "12313"
+  },
+  {
+    "name": "Aman",
+    "username": "Gta",
+    "socialLink": "https://example.com",
+    "dp": "uploads/dp/file_1.jpg",
+    "id": 5356614395
   }
 ]
