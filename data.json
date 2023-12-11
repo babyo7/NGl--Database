@@ -1,18 +1,18 @@
 [
   {
     "name": "Tanmay Singh",
-    "username": "babyo7_",
+    "username": "babyo7",
     "id": "535661439",
     "dp": "/dp/me.gif",
     "socialLink": "https://www.instagram.com/babyo7_/",
-    "link": "#"
+    "link": "https://ngl-clone-production.up.railway.app/babyo7"
   },
   {
-    "name": "baby",
-    "username": "test",
-    "link": "link",
-    "socialLink": "link",
-    "dp": "Havel",
-    "id": "12313"
+    "name": "Arshdeep",
+    "username": "wolfy",
+    "link": "https://ngl-clone-production.up.railway.app/wolfy",
+    "socialLink": "#",
+    "dp": "/dp/user.gif",
+    "id": "5766558074"
   }
 ]
