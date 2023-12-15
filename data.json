@@ -1,26 +1,3 @@
 [
-  {
-    "name": "anon123",
-    "username": "anon123",
-    "link": "https://ngl-clone-production.up.railway.app/anon123",
-    "socialLink": "https://kekma.net",
-    "dp": "/dp/user2.gif",
-    "id": "5766558074"
-  },
-  {
-    "name": "Tanmay",
-    "username": "babyo7",
-    "link": "https://ngl-clone-production.up.railway.app/babyo7",
-    "socialLink": "http://tanmay-seven.vercel.app",
-    "dp": "https://happy-music.vercel.app/Cover/file_14.jpg",
-    "id": "5356614395"
-  },
-  {
-    "name": "kunal",
-    "username": "kunal",
-    "link": "https://ngl-clone-production.up.railway.app/kunal",
-    "socialLink": "Not Set",
-    "dp": "https://happy-music.vercel.app/Cover/file_12.jpg",
-    "id": "5956940721"
-  }
+  
 ]
