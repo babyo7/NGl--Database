@@ -4,5 +4,11 @@
     "artist": "Babyo7_",
     "audio": "https://your-napster.vercel.app/Music/iconic.mp3",
     "cover": "Cover/dp.webp"
+  },
+  {
+    "title": "Night Chages ",
+    "artist": "One Direction",
+    "audio": "https://music-player-babyo7.vercel.app/Music/One Direction - Night Changes.mp3",
+    "cover": "https://music-player-babyo7.vercel.app/Cover/${req.file.originalname}"
   }
 ]
