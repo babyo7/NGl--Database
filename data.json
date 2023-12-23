@@ -1,5 +1,4 @@
 [
-
   {
     "name": "Happy",
     "username": "shades of manish",
@@ -15,5 +14,13 @@
     "socialLink": "Not Set",
     "dp": "https://happy-music.vercel.app/Cover/file_27.jpg",
     "id": "6574837573"
+  },
+  {
+    "name": "Tanmay",
+    "username": "Babyo7",
+    "link": "https://ngl.up.railway.app/Babyo7",
+    "socialLink": "Not Set",
+    "dp": "https://happy-music.vercel.app/Cover/file_28.jpg",
+    "id": "5356614395"
   }
 ]
